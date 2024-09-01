@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "916238768108;𝐀𝐦𝐞𝐞𝐧𝐈𝐧𝐭🌩️"
+const ownervb = process.env.OWNERS || "917530060988;𝐀𝐌𝐄𝐄𝐑💗"
 
 
 const ownerlist = ownervb.split(';');
@@ -20,9 +20,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     ];
     global.owner.push(owner);
 }
-//global.owner = [['916238768108', '𝞓𝞛𝞢𝞢𝞜-𝙎𝞢𝞒🗡️', true], ['', 'OWNER2', true], ['']] //Number of owners
+//global.owner = [['917530060988', '𝚊𝚖𝚎𝚎𝚛', true], ['', 'OWNER2', true], ['']] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "917530060988" //put your bot number here
 
 global.mods = ['916238768108', '']
 global.prems = ['916238768108', '']
@@ -70,12 +70,12 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = '𝐊𝐞𝐢𝐤𝐨 𝐕𝟓'
+global.botname = '𝐀𝐌𝐄𝐄𝐑 𝐕1'
 global.premium = 'true'
-global.packname = process.env.PACKAGE || '𝘼𝙢𝙚𝙚𝙣𝙄𝙣𝙩'
-global.author = process.env.AUTHOR || '® AͣᴍͫᴇͤᴇͤɴIͥɴᴛⷮ'
+global.packname = process.env.PACKAGE || '💎𝑨𝒎𝒆𝒆𝒓 𝑿 𝑭𝒂𝒓𝒔𝒖💕'
+global.author = process.env.AUTHOR || '𝐀𝐌𝐄𝐄𝐑'
 global.menuvid = 'https://i.imgur.com/VU2yq5G.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/mr.z_ninja\n'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/_mr_farsana\n'
 global.dygp = 'https://chat.whatsapp.com/GVxT4w51GIU3sndNPZGTnw'
 global.fgsc = 'https://github.com/AmeenRepo/KEIKO-V5'
 global.fglog = 'https://i.imgur.com/7U0dq0h.jpeg'
